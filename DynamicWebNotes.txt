@@ -16,3 +16,24 @@ Why Designers/Developers love content managment systems
 	Less coding and more feature-rich
 	Enables content creators to add content
 
+Content is the 
+
+	Main reason anyone goes to a website
+	And they stay there
+	
+	"Information produced through editorial process and ultimately 
+	intended for human consumption through publication" 
+
+When to use Content Managment Systems:
+
+	The site content needs to be updated often.
+	You want to be able to easily update the site. 
+	Someone else needs to be able to update the site.
+	More than one person needs to be able to update the site.
+	Tight Budget. 
+
+
+
+
+
+
