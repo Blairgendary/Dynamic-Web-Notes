@@ -8,3 +8,11 @@ Why content MANAGERS love content management systems
 	Content automation and aggregation
 	Editorial efficency 
 
+Why Designers/Developers love content managment systems
+
+	Controls template 
+	Stores content in a database 
+	Plugins for dynamic content modules
+	Less coding and more feature-rich
+	Enables content creators to add content
+
